@@ -1,0 +1,7 @@
+{
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-RemoteKatana-c45b50ca-5bd7-4757-a3f4-9e5962cee6b3;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
